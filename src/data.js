@@ -56,4 +56,4 @@ const movieData = [
   },
 ]
 
-export default movieData
+export default movieData // exporting the data through movieData variable
